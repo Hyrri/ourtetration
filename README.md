@@ -67,15 +67,20 @@ Python 사용이 어렵거나 Desktop 환경을 이용하기 힘든 사람들의
 
 ## 의존성
 
-컴포넌트 디자인: huntabyte님이 포팅하신 shadcn-svelte
-복소수 연산: lxsmnsyc님이 제작하신 fast-complex
+- 컴포넌트 디자인: huntabyte님이 포팅하신 shadcn-svelte
+- 복소수 연산: lxsmnsyc님이 제작하신 fast-complex
 
 ## 스크린샷
 
 1. 랜덤 렌더 적용
    <img width="1552" alt="Screenshot 2024-05-25 at 22 03 15" src="https://github.com/Hyrri/ourtetration/assets/156367375/dc70da15-5e8b-44ef-bb2c-b3bbc8792789">
 
+
 2. 순차 렌더 적용
    <img width="1552" alt="Screenshot 2024-05-25 at 22 02 40" src="https://github.com/Hyrri/ourtetration/assets/156367375/3497764e-aac3-413e-8e92-898fb35d91e5">
 
+
+## 모바일 스크린샷
+   <img width="393" alt="IMG_8768" src="https://github.com/Hyrri/ourtetration/assets/156367375/400f9054-6ecd-43f1-98e3-d259f0667bf0">
+      <img width="393" alt="IMG_8766" src="https://github.com/Hyrri/ourtetration/assets/156367375/61e14a80-ca0c-4c88-8ea5-0d936c7b00ff">
 
