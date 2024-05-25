@@ -54,9 +54,9 @@ Python 사용이 어렵거나 Desktop 환경을 이용하기 힘든 사람들의
 ## 스크린샷
 
 1. 랜덤 렌더 적용
-   <img width="1552" alt="Screenshot 2024-05-25 at 22 03 15" src="https://github.com/STR-HK/OurTetration/assets/78652371/ec1a765e-a9d4-41fe-be47-f7303f144a19">
+   <img width="1552" alt="Screenshot 2024-05-25 at 22 03 15" src="https://github.com/Hyrri/ourtetration/assets/156367375/dc70da15-5e8b-44ef-bb2c-b3bbc8792789">
 
 2. 순차 렌더 적용
-   <img width="1552" alt="Screenshot 2024-05-25 at 22 02 40" src="https://github.com/STR-HK/OurTetration/assets/78652371/e4f1797f-ce16-444e-9aaa-a78925a3d969">
+   <img width="1552" alt="Screenshot 2024-05-25 at 22 02 40" src="https://github.com/Hyrri/ourtetration/assets/156367375/3497764e-aac3-413e-8e92-898fb35d91e5">
 
 
